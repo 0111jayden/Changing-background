@@ -1,2 +1,2 @@
-# Changing-background
-Your background changes depending on where your mouse is!
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
